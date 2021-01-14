@@ -5,8 +5,7 @@
 title: French 397 Home
 layout: default
 ---
-# FREN 283 - programme du cours
-#fren283
+# FREN 397 - programme du cours
 
 * presentations on current events
 
@@ -18,7 +17,7 @@ layout: default
 * Medieval / Modern; Course
 * À quoi sert la carte? (Indications... autres emplois?)
 * Epistemology; primitive; technology; science - aims, vis-a-vis human
-* Cours sur le français au Moyen Âge = ? - international 
+* Cours sur le français au Moyen Âge = ? - international
 
 #### Reading / Homework Ideas
 * Assignment creation #dafare
@@ -37,14 +36,14 @@ layout: default
 ## Semaine 2
 ### le 26 janvier
 
-* Carolingian Renaissance 
+* Carolingian Renaissance
 * Monastic schools
 * Mappamundi
 * Antiquity
 * Aristotelian-Ptolemaic model
 
 #### Reading / Homework Ideas
-* Create non-measurement map 
+* Create non-measurement map
 * "Deconstructing the Map"
 * Article on mappamundi in monasteries
 
@@ -54,7 +53,7 @@ layout: default
 * Liberal arts - geography & Cartography
 * Space - how to define?
 
-#### Reading / Homework Ideas 
+#### Reading / Homework Ideas
 * LeGoff, *Intellectuals*
 * Map analysis, Isidore of Seville, T-O map
 
@@ -63,7 +62,7 @@ layout: default
 ### le 2 février
 
 * Microcosm / Microcosm, zodiac, medicine
-* Pensée analogique 
+* Pensée analogique
 
 #### Reading / Homework Ideas
 
@@ -169,14 +168,3 @@ le 6 avril
 
 le 8 avril
 #### Reading / Homework Ideas
-
-
-
-
-
-
-
-
-
-  
-

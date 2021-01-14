@@ -1,0 +1,4 @@
+
+  /* Jumbotron JS */
+
+  $(function () { objectFitImages() });

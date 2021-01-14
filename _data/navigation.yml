@@ -1,0 +1,19 @@
+toc:
+  - title: About
+    subfolderitems:
+      - page: Course Syllabus
+        url: /about/syllabus.html
+      - page: Rubrics
+        url: /about/rubrics.html
+  - title: Course Program
+    subfolderitems:
+      - page: Unit 1
+        url: /course/unit-1.html
+      - page: Unit 2
+        url: /course/unit-2.html
+      - page: Unit 3
+        url: /course/unit-3.html
+      - page: Unit 4
+        url: /course/unit-4.html
+      - page: Unit 5
+        url: /course/unit-5.html
