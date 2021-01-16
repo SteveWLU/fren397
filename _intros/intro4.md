@@ -1,6 +1,6 @@
 ---
-title: L'univers, mode d'emploi
-dates: du 21 janvier au 2 février
-image_path: assets/images/universe-icon.png
+title: La cartographie de la monstruosité
+dates: du 23 février au 5 mars
+image_path: assets/images/monster-icon.jpg
 ---
-Avez-vous jamais considérer la possibilité que n'importe quelle partie de ton corps représente la totalité de l'univers? S'agit-il d'une idée de la physique moderne ou est-ce qu'elle forme aussi la base de la science médiévale? Dans ces discussions nous allons explorer les merveilles de l'univers selon les scientifiques des XIIe et XIIIe siècles. 
+Nous avons tenté de comprendre la notion médiévale du corps cartographique: chacun de nous on a dans nous mêmes l'entierté du cosmos. Mais que se passe-t-il quand les lignes cartographiques se défigurent en même temps que les corps des bêtes et monstres merveilleux?
