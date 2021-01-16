@@ -1,6 +1,6 @@
 ---
-title: L'univers, mode d'emploi
-dates: du 21 janvier au 2 février
-image_path: assets/images/universe-icon.png
+title: La diversité du monde
+dates: du 4 janvier au 18 février
+image_path: assets/images/natural-icon.png
 ---
-Avez-vous jamais considérer la possibilité que n'importe quelle partie de ton corps représente la totalité de l'univers? S'agit-il d'une idée de la physique moderne ou est-ce qu'elle forme aussi la base de la science médiévale? Dans ces discussions nous allons explorer les merveilles de l'univers selon les scientifiques des XIIe et XIIIe siècles. 
+Il nous est facile d'oublier un aspect fondamental des connaissances géographiques du Moyen Âge: on ne connaissait que trois continents. En dépit de l'ignorance des Amériques, les scientifiques médiévaux ont pu créer un système de connaissance extrêmement sophistiquée. Dans ces discussions, on tentera de comprendre comment les naturalistes décrivent le monde naturel et ces divisions géographiques. 
