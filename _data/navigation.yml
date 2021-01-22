@@ -17,3 +17,7 @@ toc:
         url: /units/unit4.html
       - page: Unit 5
         url: /units/unit5.html
+  - title: Textes
+    subfolderitems:
+      - page: Macrobe
+        url: /texts/macrobius/macrobius.html
