@@ -5,64 +5,266 @@
 title: French 397 Home
 layout: default
 ---
-# FREN 397 - programme du cours
 
-* presentations on current events
 
+## le 19 janvier | Le défi de l'Histoire
+
+En classe: 
+* objectifs du cours;
+* définitions de départ (Dieux, religion, France, français, Moyen Âge, Renaissance); 
+* discussion syllabus participatif.
+
+## le 21 janvier | L'espace, le lieu, l'infinité
+
+* Analyse cartographique : À quoi sert la carte ? Quels sont les éléments fondamentaux pour le bon fonctionnement d'une carte ? Dessinez un exemple d'une carte qui se sert de ces éléments de base. Mettez vos réponses aux deux questions (un paragraphe seulement pour les deux) et vos dessins dans votre dossier sur Box.
+* J.B. Harley, “Deconstructing the Map”, 1-15 
+* Umberto Eco, *Serendipities*, "The Force of Falsity: Ptolemy & The Flat Earth"
+* From the *Encyclopédie* of Denis Diderot - [HOMME](https://artflsrv03.uchicago.edu/philologic4/encyclopedie1117/navigate/8/1336/); [TERRE](https://artflsrv03.uchicago.edu/philologic4/encyclopedie1117/navigate/16/625/); [GÉOGRAPHIE (premier paragraphe seulement)](https://artflsrv03.uchicago.edu/philologic4/encyclopedie1117/navigate/7/1970/?byte=6554487)
+
+## Les sciences au Moyen Âge
+* Map analysis: [Hereford Mappamundi](https://upload.wikimedia.org/wikipedia/commons/4/48/Hereford-Karte.jpg)
+* [Aristote, *La Métaphysique*, Livre 1, Chapitres 1 et 2](https://fr.wikisource.org/wiki/La_M%C3%A9taphysique_(trad._Pierron_et_Z%C3%A9vort)/Livre_premier)
+* [Aristote, *La Métaphysique,* Livre 12, Chapitre 8](https://fr.wikisource.org/wiki/La_Métaphysique_(trad._Pierron_et_Zévort)/Livre_Λ )
+* Jacques Le Goff, *Les intellectuals du Moyen Age* (9-30; 118-133)
+
+## Le cosmos dedans et dehors
+* Map analysis: [Ebstorf Mappmamundi](https://en.wikipedia.org/wiki/Ebstorf_Map#/media/File:Ebstorfer_Weltkarte_2.jpg)
+* Ciceron, “Le songe de Scipion,” 4-22.
+* Novellino
+* Macrobe, *Commentaire sur le songe de Scipion*: Livre 1, Chapitres XIII & XX; Livre 2, Chapitres I, II, %, IX, X, XII.
+
+
+# Week 3 - Le divisement du monde 
+## Day 1 - L’oikoumene
+Topics
+* Principle of differentiation in creation - Aristotle and Restoro
+* Continents
+	* omphalus
+* Major geographical features 
+* Le temps - 4 ages
+
+Assignments
+* Map analysis: portolan
+* Dalché, “Comment penser l’océan”, 203-226)::22::
+* Boccaccio, Alatel
+* Dünne
+<a href='FREN%20397%20-%20programme%20du%20cours%20avec%20notes/DUNNE_2009_me%CC%81ditation-me%CC%81dialite%CC%81-subjectivite%CC%81.pdf'>DUNNE_2009_méditation-médialité-subjectivité.pdf</a>
+* Dalché
+<a href='FREN%20397%20-%20programme%20du%20cours%20avec%20notes/DALCHE%CC%81_2009_histoire-contemplation-cartographie.pdf'>DALCHÉ_2009_histoire-contemplation-cartographie.pdf</a>
+
+## Day 2 - Limites, liquid and liminal spaces
+Assignments 
+* Marie de France, *Bisclacret*
+* Brunetto Latini, *Le livre du trésor* (399-460)
+- - - -
+# Week 4
+## Day 1 - Bestiaires
+Topics
+* Man / beast - limits?
+
+Présentations des bêtes
+
+Assignments
+* Amin Maloof, *Les croisades vies par les autres*, "Les cannibales de Maara" (53-75) ::22::
+* Amin Maloof, *Les croisades vies par les autres*, " Le fouet Mongol”  (267-280)::14::
+* *Novellino* - the three rings
+* Chanson de Roland (::extrait::)
+* Gog and Magog, Alexandre
+* Heng, *Medieval Origins of Racism*
+
+# La géographie de la beauté et la laideur
+## Day 2 - Nous et les autres
+Assignments
+* Herodotus 
+* Pliny
+* Physiologus?
+
+# Week 5
+## Day 1 - The Monstrous Races 
+Topic
+* Definition "monstrum"
+* Review maps - any suggestions of where monstrous beings dwell?
+* Center and periphery 
+* Pliny on Africa, then Prsster John in Ethiopia 
+
+## Day 2 - Face au néant
+Assignments 
+Dante Alighieri:
+* [La Divine Comédie (trad. Lamennais)/L’Enfer/Chant I - Wikisource](https://fr.wikisource.org/wiki/La_Divine_Com%C3%A9die_(trad._Lamennais)/L%E2%80%99Enfer/Chant_I)
+* [La Divine Comédie (trad. Lamennais)/Le Purgatoire/Chant I - Wikisource](https://fr.wikisource.org/wiki/La_Divine_Com%C3%A9die_(trad._Lamennais)/Le_Purgatoire/Chant_I)
+* [La Divine Comédie (trad. Lamennais)/Le Paradis/Chant XXXIII - Wikisource](https://fr.wikisource.org/wiki/La_Divine_Com%C3%A9die_(trad._Lamennais)/Le_Paradis/Chant_XXXIII )
+* Map analysis: [Fra Mauro *mappamundi*](https://en.m.wikipedia.org/wiki/Fra_Mauro_map#/media/File%3AFraMauroDetailedMap.jpg)
+* La lettre du Prêtre Jean (179-191)
+* Hassan ibn al-Sabbah
+* La lettre du Prêtre Jean, “La périphérie” (106-115)::9.5::
+* La lettre du Prêtre Jean, “ La division du monde" (115-116)::1::
+* Campbell Blaine
+<a href='FREN%20397%20-%20programme%20du%20cours%20avec%20notes/CAMPBELL_2008_writing-prester-john.pdf'>CAMPBELL_2008_writing-prester-john.pdf</a>
+* Umberto Eco, *Baudolino*, Chapitre 12 [Baudolino](https://www.amazon.com/Baudolino-Litt%C3%A9rature-Etrang%C3%A8re-French-Umberto-ebook/dp/B017YLIONC/ref=sr_1_1?dchild=1&keywords=baudolino+french&qid=1610887552&s=digital-text&sr=1-1)
+
+# Week 6
+## Day 1 - Où se trouve le Paradis?
+Topics
+* Elicit - mixing of ancient and new geographic knowledge in Fra Mauro 
+* Analysis of depiction of Paradise vis-a-vis vis Hereford, etc.
+* GOT - la légende des assassins
+
+Assignments 
+* Marco Polo
+* Sévérac
+
+# Le voyage 
+
+## Day 2 - 
+Examen oral midterm
+
+## Voyages en Orient
+::move to 7.2::
+Topics
+* Marco Polo - Prologue
+
+Assignments 
+* Map analysis: [Atlas Catalan](https://www.bnf.fr/fr/mediatheque/atlas-catalan-1375)
+* Polo en Chine, les îles
+* Friedman, Spices
+
+# Week 7
+## Day 1
+::Winter Break::
+
+::move to 8.1::
+Topics 
+
+Assignments 
+* Jean de Mandeville 
+* Ibn Battuta
+* Islamic maps
+* Idrisi 
+* Africa in the Middle Ages 
+
+## Day 2  - Voyages en Afrique
+Topics 
+
+Assignments 
+* Les mongoles 
+
+# Week 8
+## Day 1
+*
+
+## Day 2
+* Fra Mauro
+* Marco Polo
+* Marco Polo sur les cartes
+
+Assignments 
+* Map analysis: [Une carte de Christophe Colomb](https://www.bnf.fr/fr/mediatheque/la-carte-dite-de-christophe-colomb-1488-1492)
+# Le voyage et la découverte 
+## Day 1 - Mesurer le monde
+* Fontenelle, *La pluralité des mondes*
+* Bruno, *De l’infinito*
+* Mark of color
+* Campbell, “On the Infinite Universe and Innumerable Worlds” (113-149) ::36::
+<a href='FREN%20397%20-%20programme%20du%20cours%20avec%20notes/CAMPBELL_1999_imagining-worlds-infinite-universe.pdf'>CAMPBELL_1999_imagining-worlds-infinite-universe.pdf</a>
+* Walter D. Mignolo, “Putting the Americas on the Map,”
+* Lisa Lampert, “Race, Periodicity, and the (Neo-) Middle Ages”, *Modern Language Quarterly*, 65.3 (2004): 391-421::30::
+
+# Week 9
+## Day 1 - Léry
+* Rousseau
+* [Montaigne, "Des cannibales"](https://litterae.pagesperso-orange.fr/textes-1ere/Cannibales-Montaigne.pdf)
+* Bleaue maps
+
+## Day 2 - Léry
+
+# Week10
+## Day 1 - Explorateur
+## Day 2 - Explorateur
+
+# La modernité médiévale
+# Week 11
+## Day 1
+## Day 2
+# Week 12
+## Day 1
+## Day 2
 
 - - - -
-# Repenser l’espace
+
+# La modernité médiévale
+À partir de l’idée reçue que le MA soit une période arriérée. Repousser la monstruosité de l’homme en arrière et se croire civile. 
+
+* Martianus Cappella, le sette arti liberali
+* Write bestiary w/ beast maker
+* Books to buy : Boccaccio
+* Ideas:
+	* What happens when paradigm shifts to empirical cartography? Possession, economy, world view…
+	* Limits and boundaries: Pillars of Hercules
+* 
+* 
+* Severac
+* Ptolemy 
+* Pliny
+* Physiologus  
+* Giordano Bruno - *L'Infini, l'Univers et les Mondes* - citations sur Wikipedia 
+
+### Non
+*  Descartes
+
+- - - -
+# Le moyen âge moderne 
 ## Semaine 1
-### le 19 janvier
-* Medieval / Modern; Course
+## le 19 janvier
 * À quoi sert la carte? (Indications... autres emplois?)
 * Epistemology; primitive; technology; science - aims, vis-a-vis human
-* Cours sur le français au Moyen Âge = ? - international
 
 #### Reading / Homework Ideas
 * Assignment creation #dafare
 
 * Medieval / Modern Space
 
+## le 21 janvier - la nature et le soi
 #### Reading / Homework Ideas
-* Descartes, Diderot
+* Diderot
+	* L’animal (6.25)
+	* Humaine espèce (.25)
+	* Nègre (.25)
 * Map analysis 1 : Hereford mappamundi
 	*[Hereford mappamundi](https://upload.wikimedia.org/wikipedia/commons/4/48/Hereford-Karte.jpg)
 * LeFevbre
 
 - - - -
-# The Heavens
+# Le cosmos
 
 ## Semaine 2
-### le 26 janvier
-
-* Carolingian Renaissance
+### le 26 janvier - Les sept arts libéraux
+• Micro/Macrocosm
+* Carolingian Renaissance 
 * Monastic schools
 * Mappamundi
 * Antiquity
 * Aristotelian-Ptolemaic model
+* Origines du zodiaque
 
 #### Reading / Homework Ideas
-* Create non-measurement map
+* Create non-measurement map 
 * "Deconstructing the Map"
 * Article on mappamundi in monasteries
 
 ### le 28 janvier
 
-* Presentation maps
-* Liberal arts - geography & Cartography
-* Space - how to define?
 
-#### Reading / Homework Ideas
+#### Reading / Homework Ideas 
 * LeGoff, *Intellectuals*
 * Map analysis, Isidore of Seville, T-O map
+* Novellino 
 
 - - - -
 # The Earth
 ### le 2 février
 
 * Microcosm / Microcosm, zodiac, medicine
-* Pensée analogique
+* Pensée analogique 
 
 #### Reading / Homework Ideas
 

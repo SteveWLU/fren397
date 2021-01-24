@@ -1,10 +1,11 @@
 ---
-title: Unit 1
+title: Le Moyen Âge moderne
+dates: du 19 au 26 janvier
 layout: unit
-permalink: units/unit1
+url: /units/unit1
+image_path: /assets/images/earth-icon.jpg
+intro: Comment définir l'espace? Un endroit? À quoi sert la cartographie? Souvent la mention du Moyen Âge nous suscite des images d'une période noire et arriérée. À travers nos discussions sur les notions de la géographie, nous essayerons de découvrir ce qui fait que cette période de mille ans soit aussi diverse qu'elle est surprenante et moderne.
 ---
-
-# Le Moyen Âge Moderne
 
 ## le 19 janvier | Le défi de l'Histoire
 

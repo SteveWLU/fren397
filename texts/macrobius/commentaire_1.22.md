@@ -4,6 +4,7 @@ author: Macrobe
 section: Livre 1, Chapitre XX
 image: /assets/images/macrobius_1.22.jpg
 layout: text
+intro: "Pourquoi la terre est immobile, et pourquoi tous les corps gravitent vers elle par leur propre poids."
 ---
 
 Pourquoi la terre est immobile,et pourquoi tous les corps gravitent vers elle par leur propre poids. « Pour votre terre, immobile et abaissée au milieu du monde, elle forme la neuvième sphère, et tous les corps gravitent vers ce centre commun. » Il est des causes dans la nature qui, par leurs effets réciproques, sont si étroitement liées les unes aux autres, qu’elles forment un tout indissoluble : alternativement génératrices et engendrées, l’étroite union qu’elles forment ne pourrait jamais être rompue. Telles elles sont relativement à la terre : tous les corps gravitent vers elle, parce qu’elle est immobile comme centre. Elle est immobile, parce qu’elle occupe la partie la plus basse de la sphère universelle ; et elle devait occuper cette partie la plus basse, pour que tous les corps pussent graviter vers elle.

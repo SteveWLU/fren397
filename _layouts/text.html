@@ -16,13 +16,24 @@
 <body>
 {% include navbar.html %}
 
-    <h1>{{ page.author }}</h1>
-        <h2>{{ page.title }}</h2>
-            <h3>{{ page.section }}</h3>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <h1>{{ page.author }}</h1>
+      <h2 style="font-style: italic; color: teal;">{{ page.title }}</h2>
+      <p class="text-muted">{{ page.section }}</p>
+    </div>
 
-                <p>{{ content }}</p>
-
-                <img>{{ page.image }}</img>
+    <div class="col-2"></div>
+    <div class="col-8">
+        <hr>
+        <p class="lead" style="font-style: italic;">{{ page.intro }}</p>
+        <hr>
+        <p>{{ content }}</p>
+        <img>{{ page.image }}</img>
+    </div>
+    <div class="col-2"></div>
+</div>
 </body>
 </html>
 

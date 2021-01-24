@@ -15,26 +15,59 @@
   </head>
 
 
-  <body>
-    
-  {% include navbar.html %}
-  {% include jumbotron.html %}
+<body>
 
-    <div class="container">
-      <h1 class="display-4">FREN 397: La géographie de l'imaginaire</h1>
-      <p class="lead">La cartographie, la géographie et le monde naturel du Moyen Âge à l'époque moderne.</p>
+<!-- image header -->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12">
+        <img src="assets/images/wunderzeichenbuch-fol.131.png" class="img-fluid">
+      </div>
+  </div>
+
+<!-- image caption -->
+  <div class="row" style="background-color: whitesmoke;">
+    <div class="col-6"></div>
+    <div class="col-6">
+      <figure class="figure">
+        <figcaption class="figure-caption text-right text-muted" style="font-size: x-small;">"In 1533, three suns shone similarly as if they had fiery clouds around them, and they stood over the city of Münster, as if the city and the houses were burning, as painted here." <a href="https://commons.wikimedia.org/wiki/Category:Augsburger_Wunderzeichenbuch">Augsburger Wunderzeichenbuch</a>, Folio 131, c. 1550.</figcaption>
+      </figure>
     </div>
+  </div>
+
+<!-- course title -->
+  <div class="row" style="background-color: whitesmoke;">
+    <div class="col-1"></div>
+    <div class="col-10">
+      <h1 class="display-3" style="font-variant: small-caps;">La géographie de l'imaginaire</h1>
+      <h2 class="text-muted" style="font-variant-caps:small-caps">FREN 397 | Hiver 2021</h2>
+      <p>Prof. Stephen P. McCormick | Heures de bureau de 13h30 à 14h30; rendez-vous</h3>
+    </div>
+    <div class="col-1"></div>
+  </div>
+
+<!-- navbar -->
+  <div class="col-12 shadow-sm p-3 mb-5 bg-light rounded">{% include navbar.html %}</div>
+
 
 <!-- Course Overview -->
- 
-  {% include intros.html %}
+<div class="row">
+  <div class="col-1"></div>
+  <div class="col-10">
+    {{ content }}
+  </div>
+  <div class="col-1"></div>
+</div>
+
+<!-- Include for an intro landing page -->
+  <!-- {% include intros.html %} -->
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
+</body>
 </html>
 
 
