@@ -2,22 +2,22 @@ toc:
   - title: Course Info
     subfolderitems:
       - page: Syllabus
-        url: /about/syllabus.html
+        url: /fren397/about/syllabus.html
       - page: Rubrics
-        url: /about/rubrics.html
+        url: /fren397/about/rubrics.html
   - title: Course Program
     subfolderitems:
       - page: Unit 1
-        url: /units/unit1
+        url: /fren397/units/unit1
       - page: Unit 2
-        url: /units/unit2
+        url: /fren397/units/unit2
       - page: Unit 3
-        url: /units/unit3
+        url: /fren397/units/unit3
       - page: Unit 4
-        url: /units/unit4
+        url: /fren397/units/unit4
       - page: Unit 5
-        url: /units/unit5
+        url: /fren397/units/unit5
   - title: Textes
     subfolderitems:
       - page: Macrobe
-        url: /texts/macrobius/macrobius.html
+        url: /fren397/texts/macrobius/macrobius.html
