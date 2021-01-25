@@ -8,6 +8,8 @@ layout: default
 
 # Le Moyen Âge moderne
 
+***
+
 ## Le défi de l'Histoire
 ### le 19 janvier
 
@@ -41,7 +43,7 @@ Analyse cartographique: le [mappamundi de Hereford](https://upload.wikimedia.org
 
 Nous reviendrons souvent à ce document. Pour cette première analyse, notez les éléments qui vous sautent aux yeux. Est-ce que vous arrivez à en identifier quelques-uns ? Est-ce que vous voyez le dessin de la carte en T-O d'Isidore de Séville ? Des liens avec la philosophie aristotélicienne (voir ci dessous) ? En gros, quelles sont vos premières observations, curiosités et interprétations ? N.b. pour toute analyse cartographique il s'agit d'une activité d'interprétation visuelle, et non pas textuelle. Je suis tout à fait au courant que vous ne comprenez pas le latin et je ne vous demanderai pas de le faire! (1 page, tapée à la machine, mettez-la dans votre dossier sur Box, titre: lastname.analyse1.mmddyy.PDF​. (ex.: "mccormick.analyse1.012621.pdf" - no spaces, no caps)
 
-**[Aristote, La Métaphysique, Livre Premier](https://fr.wikisource.org/wiki/La_M%C3%A9taphysique_(trad._Pierron_et_Z%C3%A9vort)/Livre_premier)**
+**[Aristote, *La Métaphysique*, Livre Premier](https://fr.wikisource.org/wiki/La_M%C3%A9taphysique_(trad._Pierron_et_Z%C3%A9vort)/Livre_premier)**
 
 Chapitre 1 "Nature de la science ; différence de la science et de l'expérience"
 1. Quelle est la nature de l'homme ? De quelle façon se différencie-t-il de l'animal ?
@@ -77,11 +79,11 @@ Cette lecture vous fait comprendre comment les textes d'Aristote échappent à l
 
 **Analyse cartographique: [Ebstorf Mappmamundi](https://en.wikipedia.org/wiki/Ebstorf_Map#/media/File:Ebstorfer_Weltkarte_2.jpg)**
 
-**Ciceron, “Le songe de Scipion,” 4-22.**
+**[Ciceron, “Le songe de Scipion.”](/texts/macrobius/somnium-scipionis.html)**
 
 **Extraits du *Novellino***
 
-**Macrobe, *Commentaire sur le songe de Scipion***: Livre 1, Chapitres XIII & XX; Livre 2, Chapitres I, II, %, IX, X, XII.
+[**Macrobe, *Commentaire sur le songe de Scipion***](/texts/macrobius/macrobius.html): Livre 1, Chapitres XIII & XXII; Livre 2, Chapitres I, II, V, IX, X, XII.
 
 ***
 
