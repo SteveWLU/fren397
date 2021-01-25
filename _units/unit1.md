@@ -82,6 +82,6 @@ Cette lecture vous fait comprendre comment les textes d'Aristote échappent à l
 
 **[Ciceron, “Le songe de Scipion.”](/texts/macrobius/somnium-scipionis.html)**
 
-**Extraits du *Novellino***
+**Extraits du *Novellino*** (à suivre)
 
 [**Macrobe, *Commentaire sur le songe de Scipion***](/texts/macrobius/macrobius.html): Livre 1, Chapitres XIII & XXII; Livre 2, Chapitres I, II, V, IX, X, XII.

@@ -1,2 +1,37 @@
-<h1>This is the:</h1>
-{{ content }}
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <title>{{ page.title }}</title>
+
+  </head>
+<body>
+{% include navbar.html %}
+
+<div class="container">
+    <div class="row" style="background:transparent url('assets/images/ausberger-wunderzeichenbuch-164.png') no-repeat center center /cover"">
+        <div class="col-2"></div>
+        <div class="col-8">
+            <hr>
+            <h1>{{ page.title }}</h1>
+            <p class="lead" style="font-style: italic;">{{ page.document }}</p>
+            <hr>
+        </div>
+        <div class="col-2"></div>
+    </div>
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col-8">{{ content }}</div>
+        <div class="col-2"></div>
+    </div>
+</body>
+</html>

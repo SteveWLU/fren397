@@ -1,7 +1,7 @@
 toc:
-  - title: About
+  - title: Course Info
     subfolderitems:
-      - page: Course Syllabus
+      - page: Syllabus
         url: /about/syllabus.html
       - page: Rubrics
         url: /about/rubrics.html
